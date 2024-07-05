@@ -1,0 +1,3 @@
+# ninja log v5
+0	1202	1720107398763049000	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	4aa340de34da8d05
+1204	1259	1720107398820758982	/Users/blackite/program/flutter/flutter_ffi_demo/build/app/intermediates/cxx/RelWithDebInfo/6j6jn3uo/obj/x86_64/libnative-lib.so	793ec23340fcc4c3

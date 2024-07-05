@@ -1,0 +1,1 @@
+ /Users/blackite/program/flutter/flutter_ffi_demo/.dart_tool/flutter_build/8d8fab4ac1f81d70a37dee3aae5d7803/native_assets.yaml: 
